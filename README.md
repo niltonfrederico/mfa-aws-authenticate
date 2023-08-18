@@ -4,6 +4,7 @@
 
 ## 💻 Prerequisites
 
+* You got to have [go](https://go.dev/doc/install) installed
 * You got to have [aws-cli](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) (v1 or v2 should be fine).
 * You need to have `iam:ListMFADevices` permission on aws.
 
